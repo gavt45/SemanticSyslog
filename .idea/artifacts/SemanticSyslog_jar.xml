@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SemanticSyslog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SemanticSyslog_jar</output-path>
+    <root id="archive" name="SemanticSyslog.jar">
+      <element id="module-output" name="SemanticSyslog" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/core-d0sl-kuruhuru-KIR-10-1-88452b1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

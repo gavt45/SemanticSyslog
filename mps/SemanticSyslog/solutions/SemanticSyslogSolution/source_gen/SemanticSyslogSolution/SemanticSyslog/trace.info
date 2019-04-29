@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:aadca3f3-b23f-458a-9e60-a974fab8ed8a(SemanticSyslogSolution.SemanticSyslog)/2359805387454584287">
+    <file name="SemanticSyslog.java">
+      <node id="2359805387454584291" at="59,11,60,45" concept="4" />
+      <node id="2359805387454584291" at="60,45,61,59" concept="0" />
+      <node id="2359805387454584311" at="63,15,64,64" concept="0" />
+      <node id="2359805387454584333" at="68,15,69,64" concept="0" />
+      <node id="2359805387454584380" at="76,11,77,47" concept="4" />
+      <node id="2359805387454584380" at="77,47,78,47" concept="0" />
+      <node id="2359805387454584420" at="80,15,81,64" concept="0" />
+      <node id="2359805387454584442" at="85,15,86,64" concept="0" />
+      <node id="2359805387454584468" at="90,15,91,65" concept="0" />
+      <node id="2359805387454584586" at="98,11,99,42" concept="4" />
+      <node id="2359805387454584586" at="99,42,100,59" concept="0" />
+      <node id="2359805387454584741" at="102,15,103,64" concept="0" />
+      <node id="2359805387454584311" at="61,59,66,15" concept="0" />
+      <node id="2359805387454584333" at="66,15,71,15" concept="0" />
+      <node id="2359805387454584420" at="78,47,83,15" concept="0" />
+      <node id="2359805387454584442" at="83,15,88,15" concept="0" />
+      <node id="2359805387454584468" at="88,15,93,15" concept="0" />
+      <node id="2359805387454584741" at="100,59,105,15" concept="0" />
+      <node id="2359805387454584586" at="96,11,108,11" concept="0" />
+      <node id="2359805387454584291" at="57,7,74,11" concept="0" />
+      <node id="2359805387454584380" at="74,11,96,11" concept="0" />
+      <scope id="2359805387454584311" at="63,15,64,64" />
+      <scope id="2359805387454584333" at="68,15,69,64" />
+      <scope id="2359805387454584420" at="80,15,81,64" />
+      <scope id="2359805387454584442" at="85,15,86,64" />
+      <scope id="2359805387454584468" at="90,15,91,65" />
+      <scope id="2359805387454584741" at="102,15,103,64" />
+      <scope id="2359805387454584586" at="98,11,105,15">
+        <var name="functionName" id="2359805387454584586" />
+      </scope>
+      <scope id="2359805387454584291" at="59,11,71,15">
+        <var name="functionName" id="2359805387454584291" />
+      </scope>
+      <scope id="2359805387454584380" at="76,11,93,15">
+        <var name="functionName" id="2359805387454584380" />
+      </scope>
+      <unit id="2359805387454584311" at="62,28,66,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$1$1" />
+      <unit id="2359805387454584333" at="67,28,71,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$1$2" />
+      <unit id="2359805387454584420" at="79,28,83,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$2$1" />
+      <unit id="2359805387454584442" at="84,28,88,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$2$2" />
+      <unit id="2359805387454584468" at="89,28,93,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$2$3" />
+      <unit id="2359805387454584741" at="101,28,105,13" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$3$1" />
+      <unit id="2359805387454584586" at="97,31,108,9" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$3" />
+      <unit id="2359805387454584291" at="58,31,74,9" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$1" />
+      <unit id="2359805387454584380" at="75,31,96,9" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1$2" />
+    </file>
+  </root>
+  <root nodeRef="r:aadca3f3-b23f-458a-9e60-a974fab8ed8a(SemanticSyslogSolution.SemanticSyslog)/2359805387454584642">
+    <file name="SemanticSyslog.java">
+      <node id="2359805387454584642" at="24,0,25,0" concept="8" trace="name" />
+      <node id="2359805387454584642" at="25,0,26,0" concept="8" trace="model" />
+      <node id="2359805387454584642" at="27,10,28,28" concept="0" />
+      <node id="2359805387454584642" at="28,28,29,36" concept="0" />
+      <node id="2359805387454584642" at="29,36,30,30" concept="6" />
+      <node id="2359805387454584642" at="30,30,31,21" concept="0" />
+      <node id="2359805387454584642" at="31,21,32,24" concept="0" />
+      <node id="2359805387454584642" at="32,24,33,20" concept="0" />
+      <node id="2359805387454584642" at="33,20,34,25" concept="0" />
+      <node id="2359805387454584642" at="34,25,35,30" concept="0" />
+      <node id="2359805387454584642" at="38,34,39,16" concept="5" />
+      <node id="2359805387454584642" at="41,42,42,17" concept="5" />
+      <node id="2359805387454584687" at="48,53,49,34" concept="0" />
+      <node id="2359805387454584687" at="52,30,53,24" concept="4" />
+      <node id="2359805387454584687" at="53,24,54,34" concept="0" />
+      <node id="2359805387454584687" at="54,34,55,61" concept="0" />
+      <node id="2359805387454584687" at="110,7,111,15" concept="5" />
+      <node id="2359805387454584892" at="131,57,132,42" concept="0" />
+      <node id="2359805387454584647" at="132,42,133,42" concept="0" />
+      <node id="2359805387454584942" at="140,11,141,38" concept="0" />
+      <node id="2359805387454584942" at="141,38,142,40" concept="0" />
+      <node id="2359805387454584960" at="142,40,143,50" concept="0" />
+      <node id="2359805387454585006" at="143,50,144,80" concept="0" />
+      <node id="2359805387454584926" at="149,7,150,56" concept="0" />
+      <node id="2359805387454584892" at="155,6,156,15" concept="5" />
+      <node id="2359805387454584699" at="162,11,163,38" concept="0" />
+      <node id="2359805387454584699" at="163,38,164,37" concept="0" />
+      <node id="2359805387454584781" at="164,37,165,57" concept="0" />
+      <node id="2359805387454584647" at="172,6,173,15" concept="5" />
+      <node id="2359805387454584642" at="176,42,177,45" concept="6" />
+      <node id="2359805387454584642" at="177,45,178,65" concept="4" />
+      <node id="2359805387454584642" at="179,9,180,52" concept="4" />
+      <node id="2359805387454584642" at="180,52,181,92" concept="4" />
+      <node id="2359805387454584642" at="181,92,182,0" concept="7" />
+      <node id="2359805387454584687" at="182,0,183,70" concept="0" />
+      <node id="2359805387454584642" at="183,70,184,0" concept="7" />
+      <node id="2359805387454584642" at="184,0,185,69" concept="4" />
+      <node id="2359805387454584642" at="185,69,186,39" concept="4" />
+      <node id="2359805387454584642" at="187,52,188,34" concept="0" />
+      <node id="2359805387454584642" at="189,55,190,24" concept="0" />
+      <node id="2359805387454584642" at="193,26,194,59" concept="0" />
+      <node id="2359805387454584642" at="196,36,197,27" concept="0" />
+      <node id="2359805387454584642" at="198,5,199,0" concept="7" />
+      <node id="2359805387454584642" at="199,0,200,0" concept="7" />
+      <node id="2359805387454584642" at="204,43,205,22" concept="5" />
+      <node id="2359805387454584642" at="208,32,209,21" concept="5" />
+      <node id="2359805387454584642" at="117,0,119,0" concept="9" trace="addVariables#(Lorg/d0sl/model/SemanticModel;)V" />
+      <node id="2359805387454584642" at="124,0,126,0" concept="9" trace="addRules#(Lorg/d0sl/model/SemanticModel;)V" />
+      <node id="2359805387454584642" at="38,0,41,0" concept="9" trace="getName#()Ljava/lang/String;" />
+      <node id="2359805387454584642" at="41,0,44,0" concept="9" trace="getModel#()Lorg/d0sl/model/SemanticModel;" />
+      <node id="2359805387454584642" at="48,0,51,0" concept="9" trace="addUsages#(Lorg/d0sl/model/SemanticModel;)V" />
+      <node id="2359805387454584642" at="188,34,191,9" concept="2" />
+      <node id="2359805387454584642" at="192,7,195,7" concept="2" />
+      <node id="2359805387454584642" at="131,0,135,0" concept="9" trace="addPredicates#(Lorg/d0sl/model/SemanticModel;)V" />
+      <node id="2359805387454584642" at="203,0,207,0" concept="3" trace="getSemanticModel#()Lorg/d0sl/model/SemanticModel;" />
+      <node id="2359805387454584642" at="207,0,211,0" concept="3" trace="getModelName#()Ljava/lang/String;" />
+      <node id="2359805387454584642" at="186,39,192,7" concept="1" />
+      <node id="2359805387454584699" at="160,7,167,11" concept="0" />
+      <node id="2359805387454584942" at="138,7,146,11" concept="0" />
+      <node id="2359805387454584647" at="158,45,172,6" concept="4" />
+      <node id="2359805387454584647" at="158,0,175,0" concept="9" trace="predicate_e0#()Lorg/d0sl/model/PredicateDef;" />
+      <node id="2359805387454584892" at="136,45,155,6" concept="4" />
+      <node id="2359805387454584642" at="178,65,198,5" concept="10" />
+      <node id="2359805387454584892" at="136,0,158,0" concept="9" trace="predicate_c0#()Lorg/d0sl/model/PredicateDef;" />
+      <node id="2359805387454584642" at="176,0,202,0" concept="9" trace="main#([Ljava/lang/String;)V" />
+      <node id="2359805387454584687" at="55,61,110,7" concept="0" />
+      <node id="2359805387454584687" at="52,0,113,0" concept="9" trace="use_a0#()Lorg/d0sl/model/Use;" />
+      <scope id="2359805387454584642" at="117,56,117,56" />
+      <scope id="2359805387454584642" at="124,52,124,52" />
+      <scope id="2359805387454584892" at="153,7,153,7" />
+      <scope id="2359805387454584647" at="170,7,170,7" />
+      <scope id="2359805387454584642" at="38,34,39,16" />
+      <scope id="2359805387454584642" at="41,42,42,17" />
+      <scope id="2359805387454584642" at="48,53,49,34" />
+      <scope id="2359805387454584926" at="149,7,150,56" />
+      <scope id="2359805387454584642" at="189,55,190,24" />
+      <scope id="2359805387454584642" at="193,26,194,59" />
+      <scope id="2359805387454584642" at="196,0,197,27">
+        <var name="ex" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584642" at="196,36,197,27" />
+      <scope id="2359805387454584642" at="204,43,205,22" />
+      <scope id="2359805387454584642" at="208,32,209,21" />
+      <scope id="2359805387454584642" at="117,0,119,0">
+        <var name="model" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584642" at="124,0,126,0">
+        <var name="model" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584642" at="131,57,133,42" />
+      <scope id="2359805387454584642" at="38,0,41,0" />
+      <scope id="2359805387454584642" at="41,0,44,0" />
+      <scope id="2359805387454584642" at="48,0,51,0">
+        <var name="model" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584699" at="162,11,165,57" />
+      <scope id="2359805387454584642" at="131,0,135,0">
+        <var name="model" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584942" at="140,11,144,80" />
+      <scope id="2359805387454584642" at="187,52,191,9" />
+      <scope id="2359805387454584642" at="203,0,207,0" />
+      <scope id="2359805387454584642" at="207,0,211,0" />
+      <scope id="2359805387454584642" at="186,39,192,7">
+        <var name="pdesc" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584647" at="160,7,167,11" />
+      <scope id="2359805387454584642" at="27,10,35,30" />
+      <scope id="2359805387454584892" at="138,7,146,11" />
+      <scope id="2359805387454584647" at="158,45,173,15">
+        <var name="res" id="2359805387454584647" />
+      </scope>
+      <scope id="2359805387454584642" at="179,9,195,7">
+        <var name="machine" id="2359805387454584642" />
+        <var name="md" id="2359805387454584642" />
+        <var name="predicates" id="2359805387454584642" />
+        <var name="start" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584647" at="158,0,175,0" />
+      <scope id="2359805387454584892" at="136,45,156,15">
+        <var name="res" id="2359805387454584892" />
+      </scope>
+      <scope id="2359805387454584892" at="136,0,158,0" />
+      <scope id="2359805387454584642" at="176,42,200,0">
+        <var name="registry" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584642" at="176,0,202,0">
+        <var name="args" id="2359805387454584642" />
+      </scope>
+      <scope id="2359805387454584687" at="57,7,108,11" />
+      <scope id="2359805387454584687" at="52,30,111,15">
+        <var name="use" id="2359805387454584687" />
+      </scope>
+      <scope id="2359805387454584687" at="52,0,113,0" />
+      <unit id="2359805387454584926" at="148,11,152,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$2$2" />
+      <unit id="2359805387454584699" at="161,23,167,9" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$3$1$1" />
+      <unit id="2359805387454584942" at="139,23,146,9" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$2$1$1" />
+      <unit id="2359805387454584647" at="159,71,169,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$3$1" />
+      <unit id="2359805387454584892" at="137,76,148,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$2$1" />
+      <unit id="2359805387454584647" at="159,27,172,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$3" />
+      <unit id="2359805387454584892" at="137,27,155,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$2" />
+      <unit id="2359805387454584687" at="56,27,110,5" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog$1" />
+      <unit id="2359805387454584642" at="23,0,212,0" name="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog" />
+    </file>
+  </root>
+</debug-info>
+

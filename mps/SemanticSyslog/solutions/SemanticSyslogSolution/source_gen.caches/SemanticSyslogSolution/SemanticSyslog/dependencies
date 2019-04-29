@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="SemanticSyslogSolution.SemanticSyslog.SemanticSyslog">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="org.d0sl.machine.LocalSemanticMachine" />
+    <classNode dependClassName="org.d0sl.machine.LocalSemanticRegistry" />
+    <classNode dependClassName="org.d0sl.machine.ModelDescriptor" />
+    <classNode dependClassName="org.d0sl.machine.PredicateDescriptor" />
+    <classNode dependClassName="org.d0sl.machine.SemanticException" />
+    <classNode dependClassName="org.d0sl.model.ArgumentDef" />
+    <classNode dependClassName="org.d0sl.model.ArgumentRef" />
+    <classNode dependClassName="org.d0sl.model.DomainSpecificModel" />
+    <classNode dependClassName="org.d0sl.model.FunctionCall" />
+    <classNode dependClassName="org.d0sl.model.FunctionDef" />
+    <classNode dependClassName="org.d0sl.model.PredicateDef" />
+    <classNode dependClassName="org.d0sl.model.SemanticModel" />
+    <classNode dependClassName="org.d0sl.model.Use" />
+    <classNode dependClassName="org.d0sl.model.expression.And" />
+    <classNode dependClassName="org.d0sl.model.expression.ExpressionType" />
+    <classNode dependClassName="org.d0sl.model.expression.StringConstant" />
+    <classNode extendsClassName="org.d0sl.machine.SemanticModelFactory" />
+  </dependency>
+</dependenciesRoot>
+
